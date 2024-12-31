@@ -1,0 +1,14 @@
+text1{
+ color:pink;
+ font-size: 50px;
+ font-weight:900;
+ background-color: black;
+}
+.p1{
+  color:darkgreen;
+  font-family: "courier new";
+}
+#h{
+ text-shadow: 4px 100px 5px red;
+ color:blue;
+}
